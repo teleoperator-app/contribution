@@ -3,7 +3,7 @@
 [info about privacy](../docs/PRIVACY.md)
 
 
-+ [edit](https://github.com/cameramonit/www/edit/main/README.md)
++ [edit](https://github.com/teleoperator-app/www/edit/main/README.md)
 
 
 <script type="module">    

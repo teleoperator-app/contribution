@@ -1,7 +1,7 @@
-## [cameraMonit.com] to inteligentna głosowa komunikacja z wieloma kamerami
+## [teleoperator.app] to inteligentna głosowa komunikacja z wieloma kamerami
 
 Wyobraź sobie system monitoringu, który nie tylko rejestruje obraz, ale również rozumie go i komunikuje się z Tobą. 
-[cameraMonit.com] rozmawia, analizuje i powiadamia wtedy gdy potrzebujesz, eliminując fałszywe alarmy.
+[teleoperator.app] rozmawia, analizuje i powiadamia wtedy gdy potrzebujesz, eliminując fałszywe alarmy.
 
 - Intuicyjna obsługa systemu monitoringu
 - Głosowa szybkość dostęp do informacji o zdarzeniach
@@ -10,7 +10,7 @@ Wyobraź sobie system monitoringu, który nie tylko rejestruje obraz, ale równi
 - Najwyższy poziom bezpieczeństwa danych
 - Zgodny z wytycznymi Artificial Intelligence Act
 
-Odkryj nową erę monitoringu z cameraMonit.com - Twój inteligentny asystent jest zawsze gotowy do rozmowy!
+Odkryj nową erę monitoringu z teleoperator.app - Twój inteligentny asystent jest zawsze gotowy do rozmowy!
 
 Interakcja:
 - Głosowa i tekstowa komunikacja
@@ -112,7 +112,7 @@ Uzytkownik może po prostu rozmawiać lub pisać z asystentem poprzez przez swó
 Aktualnie asystent, jest dostepny dla komunikatora signal z uwagi na bezpieczeństwo, ale będzie dostępny obsługa komunikatorów: whatsapp, telegram na życzenie.
 
 
-### CameraMonit
+### teleoperator-app
 Lider w usługach Zdalnego Dozoru Wizyjnego. Wymieniamy ochronę fizyczną na System Ochrony Wizyjnej znacznie podnosząc bezpieczeństwo obiektów przy okazji redukując wysokie koszty.
 
 Koncentrujemy się na dostarczaniu nowoczesnych rozwiązań informatycznych w obszarze szeroko rozumianego bezpieczeństwa dla:
@@ -126,13 +126,13 @@ Koncentrujemy się na dostarczaniu nowoczesnych rozwiązań informatycznych w ob
 
 Zapraszamy do współpracy
 
-### Co wyróżnia CameraMonit?
+### Co wyróżnia teleoperator-app?
 
 W odróżnieniu od aktualnych systemów oferujemy komunikację głosową do sterowania całą siecią kamer i wybranymi w czasie rzeczysitom oraz dostęp do archiwalnych nagrań.
 
 
-![wersja prototypowa cameramonit.com](https://github.com/cameramonit/www/assets/5669657/1c71e644-2dc9-4152-8ef3-7acb7bc97ef3)
-wersja prototypowa cameramonit.com
+![wersja prototypowa teleoperator.app](https://github.com/teleoperator-app/www/assets/5669657/1c71e644-2dc9-4152-8ef3-7acb7bc97ef3)
+wersja prototypowa teleoperator.app
 
 
 ### Oferta 
@@ -226,11 +226,11 @@ Photogrammetry is the science and technology of obtaining reliable information a
 
 
 
-![image](https://github.com/cameramonit/www/assets/5669657/75e9af3e-67ec-4622-b365-57157bd99687)
+![image](https://github.com/teleoperator-app/www/assets/5669657/75e9af3e-67ec-4622-b365-57157bd99687)
 
 
 
-![image](https://github.com/cameramonit/www/assets/5669657/42fcce48-3463-4625-99ba-8a9459b5298e)
+![image](https://github.com/teleoperator-app/www/assets/5669657/42fcce48-3463-4625-99ba-8a9459b5298e)
 
 
 
@@ -424,7 +424,7 @@ Ostatnie wydarzenia w Maine przypominają nam o pilnej potrzebie zwiększenia ś
 
 Jako część społeczności technologicznej czujemy się głęboko odpowiedzialni za przyczynienie się do zwiększenia bezpieczeństwa naszych przestrzeni publicznych. Chociaż żadna technologia nie może zastąpić ludzkiej czujności i wsparcia społeczności, z pewnością może pomóc we wczesnym wykrywaniu i zapobieganiu.
 
-My, w CameraMonit. opracowaliśmy rozwiązanie, które wykrywa broń palną w nagraniach CCTV, mając na celu zapewnienie dodatkowej warstwy bezpieczeństwa w przestrzeni publicznej i prywatnej.
+My, w teleoperator-app. opracowaliśmy rozwiązanie, które wykrywa broń palną w nagraniach CCTV, mając na celu zapewnienie dodatkowej warstwy bezpieczeństwa w przestrzeni publicznej i prywatnej.
 
 Naszym głównym celem jest wspieranie pracowników ochrony, organów ścigania i społeczności poprzez oferowanie narzędzia, które może potencjalnie zapobiec takim tragicznym wydarzeniom w przyszłości. Zapraszamy liderów społeczności, specjalistów ds. bezpieczeństwa i zainteresowane strony do dyskusji na temat tego, jak możemy współpracować i zapewnić bezpieczeństwo naszym bliskim.
 
@@ -515,7 +515,7 @@ Oto graficzne przedstawienie tego układu:
 ## Podsumowanie
 
 Chciałbym sprzedawać aplikacje na android do podglądu kamer z inteligentnym powiadamianiem o incydentach w oparciu o sztuczną inteligencję. 
-Aplikacja nazywa się CameraMonit od konkurencji wyróżniają ją funkcje:
+Aplikacja nazywa się teleoperator-app od konkurencji wyróżniają ją funkcje:
 1.  Głosowa komunikacja z systemem nadzoru, bez potrzeby zaglądania do aplikacji, wystarczy tylko głosowa komenda jak w rozmowie z inteligentnym asystentem
 2. Komunikacja z aplikacją poprzez integrację z komunikatorami takimi jak signal, telegram, whatsup
 3. Aplikacja Android nie wymaga komunikacji z zewnętrznymi serwerami, możliwa jest praca offline bez internetu
